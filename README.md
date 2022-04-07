@@ -1,0 +1,2 @@
+# invoice_analysis_apriori
+The Apriori algorithm is an algorithm for searching for association rules.  Association rules are "if-then" statements, that help to show the probability of relationships between data items, within large data sets in various types of databases.  It is especially useful for transactions analysis - when you have a tons of invoices. Analysing the invoices can help you answer some important business questions - what items should be included in the bundle? Or what items should be placed nearby? What to offer the buyer?
